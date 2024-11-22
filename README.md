@@ -95,4 +95,3 @@ Here are the basic details about the data structures listed in the image:
       - Push/Pop: O(1)
       - Peek: O(1)
 
-These data structures are fundamental for understanding algorithms
