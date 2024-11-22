@@ -1,7 +1,7 @@
 # Data-Structures-Implementation
 Implementation of multiple data structures in java
 
-Here are the basic details about the data s
+
 
 1. **Array (Array.java)**:
    - **Definition**: A collection of elements, each identified by an index or key.
